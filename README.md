@@ -16,3 +16,39 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Acknowledgments](#acknowledgments)
 
 
+## Overview
+
+### Screenshot
+
+**FOR DESKTOP**
+
+![](Screenshots/screenshot-desktop.PNG)
+
+**FOR MOBILE**
+
+![](Screenshots/screenshot-mobile.PNG)
+
+### Links
+
+- Solution URL: [Click here](https://github.com/AsumVictor/frontendMentor-QR-code-component)
+- Live Site URL: [View website](https://asumvictor.github.io/frontendMentor-QR-code-component/)
+
+## My process
+
+### Built with
+-[x] Code Editor
+    - VS code
+
+-[x] Languages  
+   - [ ] Semantic HTML5 markup
+   - [ ] CSS custom properties
+       - Flexbox
+
+  - [x] Frameworks  
+     - Bootstrap
+
+## Author
+
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/AsumVictor)
+- Twitter - [@iamasum369](https://www.twitter.com/iamasum369)
+
