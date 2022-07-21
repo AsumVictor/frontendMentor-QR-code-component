@@ -13,9 +13,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 
-## Overview
+## 🚀 Overview
 
-### Screenshot
+### 📸Screenshot
 
 **FOR DESKTOP**
 
@@ -25,14 +25,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](Screenshots/screenshot-mobile.PNG)
 
-### Links
+### ⛓Links
 
 - Solution URL: [Click here](https://github.com/AsumVictor/frontendMentor-QR-code-component)
 - Live Site URL: [View website](https://asumvictor.github.io/frontendMentor-QR-code-component/)
 
-## My process
+## 🖤Share your support
+Compare the actual challenge design in [Design Folder](design/), if you iike it give a ⭐ and follow 🥰 
 
-### Built with
+## 🏍My process
+
+### ⚒Built with
 - [x] Code Editor
     - VS code
 
@@ -44,8 +47,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [x] Frameworks  
      - Bootstrap
 
-## Author
+## 👨🏾‍💻Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/AsumVictor)
+- Frontend Mentor - [@Asum Victor](https://www.frontendmentor.io/profile/AsumVictor)
 - Twitter - [@iamasum369](https://www.twitter.com/iamasum369)
 
