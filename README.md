@@ -33,10 +33,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## My process
 
 ### Built with
--[x] Code Editor
+- [x] Code Editor
     - VS code
 
--[x] Languages  
+- [x] Languages  
    - [ ] Semantic HTML5 markup
    - [ ] CSS custom properties
        - Flexbox
