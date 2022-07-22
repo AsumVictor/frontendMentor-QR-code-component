@@ -1,6 +1,6 @@
 *{
     box-sizing: border-box;
-    margin: 0rem;
+    margin: 0px;
 }
 
 body{
@@ -15,12 +15,32 @@ main{
     background-color: hsl(220, 15%, 55%);
 
 }
-.card{
+
+article{
+    flex-direction: column;
+}
+.qr-card{
     height: 499px;
     width: 311px;
+    flex-direction: column;
+    border-radius: 0.8rem;
 }
 
-.card img{
+.qr-card img{
     height: 287.7px;
     width: 279.9px;
+    border-radius: 0.8rem;
+}
+
+section{
+    font-family: 'Outfit', sans-serif;
+}
+h5{
+    color: hsl(218, 44%, 22%);
+}
+p{
+    color: hsl(220, 15%, 55%);
+}
+.attribution{
+    background-color: rgba(206, 201, 201,0.5);
 }
